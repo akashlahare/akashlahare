@@ -1,6 +1,7 @@
 ### 😎 Hey! Nice to see you.
 
-#### I'm Akash, Cyber Security Analyst from 🇮🇳 India. Still learning, breaking stuff and getting better every day. Always up for a good security chat. 🔐
+#### I'm Akash, Cyber Security Analyst from 🇮🇳 India. Still learning, breaking stuff and getting better every day. 
+Always up for a good security chat.🔐
 ---
 
 ### 🛠️ Things I deal with

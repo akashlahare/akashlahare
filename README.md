@@ -8,9 +8,6 @@ I'm a Cyber Security Researcher based in India. Just learning, breaking stuff, a
 
 
 ### 📫 Reach out to me:
--Email: 
--YouTube: [AK](https://www.youtube.com/)
--Linkedin: [linkedin.com/in/akashlahare/]()
 
 - Email: [l33tkid@proton.me](mailto:l33tkid@proton.me)
 - YouTube: [AK](https://www.youtube.com/)

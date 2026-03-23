@@ -30,7 +30,7 @@ I'm Akash, Cyber Security Analyst from 🇮🇳 India. Still learning, breaking 
 ![Nessus](https://img.shields.io/badge/Nessus-00A4EF?style=flat-square&logo=tenable&logoColor=white)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white)
 ![Netcat](https://img.shields.io/badge/Netcat-000000?style=flat-square&logo=gnu&logoColor=white)
-![Tcpdump](https://img.shields.io/badge/Tcpdump-4682B4?style=flat-square&logo=linux&logoColor=white)
+![Tcpdump](https://img.shields.io/badge/Tcpdump-4682B4?style=flat-square&logo=linux&logoColor=white) & More!
 
 ---
 <p align="center">

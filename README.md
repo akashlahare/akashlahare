@@ -2,7 +2,7 @@
 
 I'm Akash, Cyber Security Analyst from 🇮🇳 India. 
 I spend most of my time testing web apps, APIs, and mobile applications. Still learning, breaking things, and trying to understand how things work behind the scenes. 
-Always up for a good security chat 🔐
+Always up for a good security chat🔐
 
 ---
 
